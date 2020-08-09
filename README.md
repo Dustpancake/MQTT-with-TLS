@@ -22,5 +22,10 @@ For relevant notes, see here:
 - NGiNX as a load balancer (with Docker) [here](https://github.com/Dustpancake/Dust-Notes/blob/master/mq-mqtt/nginx-load-balancing.md)
 - VerneMQ cluster (with Docker) (TODO)
 - Configuring SSL/TLS on NGiNX (TODO)
-- Uploading CA certificates and encryption keys onto Arduino firmware (TODO)
+- Uploading CA certificates and encryption keys onto Arduino firmware [here](https://github.com/Dustpancake/Dust-Notes/blob/master/arduino/ca-certs-nano.md)
 - Testing the communication system is secure (TODO)
+
+
+### Useful links
+
+The [Arduino Nano 33 IoT Ultimate Guide](https://github.com/ostaquet/Arduino-Nano-33-IoT-Ultimate-Guide)
