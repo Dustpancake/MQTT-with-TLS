@@ -22,7 +22,8 @@ For relevant notes, see here:
 - NGiNX as a load balancer (with Docker) [here](https://github.com/Dustpancake/Dust-Notes/blob/master/mq-mqtt/nginx-load-balancing.md)
 - VerneMQ cluster (with Docker) (TODO)
 - Configuring SSL/TLS on NGiNX (TODO)
-- Uploading CA certificates and encryption keys onto Arduino firmware [here](https://github.com/Dustpancake/Dust-Notes/blob/master/arduino/ca-certs-nano.md)
+- Uploading CA certificates and onto Arduino firmware [here](https://github.com/Dustpancake/Dust-Notes/blob/master/arduino/ca-certs-nano.md)
+- Configuring the ATECC608a secure chip [here](https://github.com/Dustpancake/Dust-Notes/blob/master/arduino/crypto-auth.md)
 - Testing the communication system is secure (TODO)
 
 
